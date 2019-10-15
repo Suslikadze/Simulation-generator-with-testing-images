@@ -1,0 +1,174 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Ruslan/Desktop/08.10.19/stripes/simulation/modelsim
+Echecker
+Z1 w1570811825
+Z2 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+Z3 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z6 8C:/Users/Ruslan/Desktop/08.10.19/stripes/Checker.vhd
+Z7 FC:/Users/Ruslan/Desktop/08.10.19/stripes/Checker.vhd
+l0
+L8
+VGfY7B@XVCnEZ`ZE^iimiZ3
+!s100 hNSNU4N:4A9j1d2IBjPkF2
+Z8 OV;C;10.5b;63
+31
+Z9 !s110 1570811883
+!i10b 1
+Z10 !s108 1570811883.000000
+Z11 !s90 -reportprogress|300|-93|-work|work|C:/Users/Ruslan/Desktop/08.10.19/stripes/Checker.vhd|
+Z12 !s107 C:/Users/Ruslan/Desktop/08.10.19/stripes/Checker.vhd|
+!i113 1
+Z13 o-93 -work work
+Z14 tExplicit 1 CvgOpt 0
+Aarch
+R2
+R3
+R4
+R5
+Z15 DEx4 work 7 checker 0 22 GfY7B@XVCnEZ`ZE^iimiZ3
+l46
+L21
+VCAB[?`ebnDl?Ymo8^G7^]2
+!s100 LFf[Z?Qa46b>i9YE4hIDT2
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ecount_n_modul
+Z16 w1570595268
+R3
+R4
+R5
+R0
+Z17 8C:/Users/Ruslan/Desktop/08.10.19/stripes/count_n_modul.vhd
+Z18 FC:/Users/Ruslan/Desktop/08.10.19/stripes/count_n_modul.vhd
+l0
+L5
+VBYVNF?[=>?S5dR;Al=b453
+!s100 5H4e5Lk^jU3o6IeWUc3gb2
+R8
+31
+Z19 !s110 1570803011
+!i10b 1
+Z20 !s108 1570803011.000000
+Z21 !s90 -reportprogress|300|-93|-work|work|C:/Users/Ruslan/Desktop/08.10.19/stripes/count_n_modul.vhd|
+Z22 !s107 C:/Users/Ruslan/Desktop/08.10.19/stripes/count_n_modul.vhd|
+!i113 1
+R13
+R14
+Abeh
+R3
+R4
+R5
+DEx4 work 13 count_n_modul 0 22 BYVNF?[=>?S5dR;Al=b453
+l19
+L17
+V>_o]VNkO_PXS=HBok4NU:3
+!s100 XI1KMo2^?HX[AJLzIKadR1
+R8
+31
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14
+Eimage_sensor_sim
+Z23 w1570802931
+R3
+R4
+R5
+R0
+Z24 8C:/Users/Ruslan/Desktop/08.10.19/stripes/IMAGE_SENSOR_SIM_binar.vhd
+Z25 FC:/Users/Ruslan/Desktop/08.10.19/stripes/IMAGE_SENSOR_SIM_binar.vhd
+l0
+L17
+VeGD0kZgY63WHQ?z@_h2ho3
+!s100 ^RIlN]_NeamQkZJmN]5?90
+R8
+31
+Z26 !s110 1570803010
+!i10b 1
+Z27 !s108 1570803010.000000
+Z28 !s90 -reportprogress|300|-93|-work|work|C:/Users/Ruslan/Desktop/08.10.19/stripes/IMAGE_SENSOR_SIM_binar.vhd|
+Z29 !s107 C:/Users/Ruslan/Desktop/08.10.19/stripes/IMAGE_SENSOR_SIM_binar.vhd|
+!i113 1
+R13
+R14
+Abeh
+R3
+R4
+R5
+DEx4 work 16 image_sensor_sim 0 22 eGD0kZgY63WHQ?z@_h2ho3
+l218
+L68
+VQcdI7zFD5IXIJQB9DZDhV1
+!s100 ^9F<Fn7YC2c;FXbVU86;>1
+R8
+31
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R13
+R14
+Eimage_sensor_sim_vhd_tst
+Z30 w1570595290
+R4
+R5
+R0
+Z31 8C:/Users/Ruslan/Desktop/08.10.19/stripes/simulation/modelsim/IMAGE_SENSOR_SIM.vht
+Z32 FC:/Users/Ruslan/Desktop/08.10.19/stripes/simulation/modelsim/IMAGE_SENSOR_SIM.vht
+l0
+L30
+V9E]3BibRIS[=`PPWDX>_60
+!s100 ;<d5_4b`B=ind3;nWK0592
+R8
+31
+R19
+!i10b 1
+R20
+Z33 !s90 -reportprogress|300|-93|-work|work|C:/Users/Ruslan/Desktop/08.10.19/stripes/simulation/modelsim/IMAGE_SENSOR_SIM.vht|
+Z34 !s107 C:/Users/Ruslan/Desktop/08.10.19/stripes/simulation/modelsim/IMAGE_SENSOR_SIM.vht|
+!i113 1
+R13
+R14
+Aimage_sensor_sim_arch
+R4
+R5
+DEx4 work 24 image_sensor_sim_vhd_tst 0 22 9E]3BibRIS[=`PPWDX>_60
+l102
+L32
+VV:=cTNz^6cVKk7]kiCBZ<0
+!s100 JAc3]fHag^>?;GVFj=aEK2
+R8
+31
+R19
+!i10b 1
+R20
+R33
+R34
+!i113 1
+R13
+R14
